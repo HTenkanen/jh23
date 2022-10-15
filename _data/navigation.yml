@@ -1,6 +1,8 @@
 main:
-  - title: "Ilmoittautuminen"
+  - title: "RSVP"
     url: /ilmoittaudu/
+  - title: "Hääinfo"
+    url: /info/
   - title: "Yöpyminen"
     url: /majoitus/
   - title: "About"
