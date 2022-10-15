@@ -71,7 +71,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "posts"
       type: posts
     values:
       layout: splash
@@ -82,7 +82,7 @@ defaults:
       related: false
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
