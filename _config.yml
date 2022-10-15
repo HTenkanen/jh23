@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "J & H"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Johanna & Henrikki 27.5.2023"
+  bio    : "J & H 27.5.2023"
 
 footer:
   links:
@@ -69,17 +69,6 @@ footer:
       url: "https://www.instagram.com/velhokoira_albus"
 
 defaults:
-  # _posts
-  - scope:
-      path: "posts"
-      type: posts
-    values:
-      layout: splash
-      author_profile: false
-      read_time: false
-      comments: false
-      share: false
-      related: false
   # _pages
   - scope:
       path: ""
