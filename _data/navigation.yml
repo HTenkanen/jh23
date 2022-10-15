@@ -1,5 +1,5 @@
 main:
-  - title: "Majoittuminen"
-    url: /majoittuminen/
+  - title: "Yöpyminen"
+    url: /majoitus/
   - title: "About"
     url: /about/
