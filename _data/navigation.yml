@@ -1,4 +1,6 @@
 main:
+  - title: "Ilmoittautuminen"
+    url: /ilmoittaudu/
   - title: "Yöpyminen"
     url: /majoitus/
   - title: "About"
