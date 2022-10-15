@@ -4,6 +4,6 @@ main:
   - title: "Hääinfo"
     url: /info/
   - title: "Saapuminen"
-    url: /kartta/
+    url: /saapuminen/
   - title: "Yöpyminen"
     url: /majoitus/
