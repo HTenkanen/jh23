@@ -3,7 +3,7 @@ main:
     url: /ilmoittaudu/
   - title: "Hääinfo"
     url: /info/
-  - title: "Saapuminen - Kartta"
+  - title: "Saapuminen"
     url: /kartta/
   - title: "Yöpyminen"
     url: /majoitus/
