@@ -21,6 +21,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 url: "https://jihuu.love"
+repository: "HTenkanen/jh23"
 search: true
 
 # Build settings
@@ -57,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Henrikki Tenkanen"
+  name   : "J & H"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
@@ -93,11 +94,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
