@@ -1,6 +1,6 @@
 ---
-permalink: /kartta/
-title: "Saapuminen - Kartta"
+permalink: /saapuminen/
+title: "Saapuminen"
 ---
  
  # Saapuminen
