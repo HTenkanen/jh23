@@ -1,5 +1,5 @@
 ---
-permalink: /saapuminen/
+permalink: /kartta/
 title: "Saapuminen - Kartta"
 ---
  
