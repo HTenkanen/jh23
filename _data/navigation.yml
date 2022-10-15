@@ -7,3 +7,5 @@ main:
     url: /saapuminen/
   - title: "Yöpyminen"
     url: /majoitus/
+  - title: "Kuvia"
+    url: /kuvia/
