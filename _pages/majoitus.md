@@ -1,6 +1,6 @@
 ---
 permalink: /majoitus/
-title: "Majoittuminen"
+title: "Yöpyminen"
 ---
 
 Helsingissä on paljon majoitusmahdollisuuksia. 
