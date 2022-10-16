@@ -9,7 +9,7 @@ excerpt: "27.5.2023 - Suomenlinna, Helsinki"
 intro: 
   - excerpt: 'Jihuu!! Lämpimästi tervetuloa hääjuhlaamme Suomenlinnaan.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/Hove_kukkapuu.jpg
     title: "RSVP"
     excerpt: "Ilmoittauduthan hääjuhlaamme 15.4.2023 mennessä."
     url: "ilmoittaudu"
