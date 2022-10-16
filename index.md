@@ -17,7 +17,7 @@ feature_row:
     btn_class: "btn--primary"
     overlay_color: "#000"
     overlay_filter: "0.4"
-  - image_path: /assets/images/jh13.jpeg
+  - image_path: /assets/images/kimmo.jpeg
     title: "Hääinfo"
     excerpt: "Täältä löydät lisätietoa hääjuhlamme ohjelmasta ja aikataulusta."
     url: "info"
