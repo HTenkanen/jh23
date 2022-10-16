@@ -28,7 +28,7 @@ feature_row:
     btn_label: "Katso saapumisohjeet"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/accommodation.jpg
     title: "Yöpyminen"
     excerpt: "Täältä löydät vinkkejä majoittumiseen."
     url: "majoitus"
