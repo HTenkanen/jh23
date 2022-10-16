@@ -15,6 +15,8 @@ feature_row:
     url: "ilmoittaudu"
     btn_label: "Ilmoittaudu täältä"
     btn_class: "btn--primary"
+    overlay_color: "#000"
+    overlay_filter: "0.4"
   - image_path: /assets/images/jh13.jpeg
     title: "Hääinfo"
     excerpt: "Täältä löydät lisätietoa hääjuhlamme ohjelmasta ja aikataulusta."
