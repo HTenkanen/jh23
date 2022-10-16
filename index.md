@@ -1,14 +1,13 @@
 ---
-title: "J & H - 27.5.2023"
+title: "J & H"
 layout: splash
-date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.8"
   overlay_image: /assets/images/victorian-bandstand-brighton.jpg
-excerpt: "Suomenlinna, Helsinki"
+excerpt: "27.5.2023 - Suomenlinna, Helsinki"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Lämpimästi tervetuloa hääjuhlaamme Suomenlinnaan.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
