@@ -12,7 +12,7 @@ feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "Ilmoittautuminen"
     title: "Ilmoittautuminen"
-    excerpt: "Ilmoittauduthan hääjuhlaamme täältä 15.4.2023 mennessä."
+    excerpt: "Ilmoittauduthan hääjuhlaamme 15.4.2023 mennessä."
     url: "ilmoittaudu"
     btn_label: "Ilmoittaudu täältä"
     btn_class: "btn--primary"
