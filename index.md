@@ -17,13 +17,16 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "Hääinfo"
-    excerpt: "Täältä löydät lisäinfoa hääjuhlastamme."
+    excerpt: "Täältä löydät lisätietoa hääjuhlamme ohjelmasta ja aikataulusta."
     url: "info"
     btn_label: "Lue lisää"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Saapuminen"
     excerpt: "Täältä löydät käytännön ohjeita kuinka saapua juhlaamme."
+    url: "saapuminen"
+    btn_label: "Katso saapumisohjeet"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
