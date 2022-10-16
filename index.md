@@ -3,8 +3,8 @@ title: "J & H"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.25"
-  overlay_image: /assets/images/victorian-bandstand-brighton.jpg
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/kuu.jpg
 excerpt: "27.5.2023 - Suomenlinna, Helsinki"
 intro: 
   - excerpt: 'Lämpimästi tervetuloa hääjuhlaamme Suomenlinnaan.'
