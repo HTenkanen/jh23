@@ -30,7 +30,7 @@ feature_row:
 feature_row2:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     title: "Yöpyminen"
-    excerpt: "Täältä löydät vinkkejä majoittumiseen Helsingissä."
+    excerpt: "Täältä löydät vinkkejä majoittumiseen."
     url: "majoitus"
     btn_label: "Katso majoitusvinkkejä"
     btn_class: "btn--primary"
