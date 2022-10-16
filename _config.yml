@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "J & H"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "27.5.2023"
+  name   : ""
+  avatar : ""
+  bio    : ""
 
 footer:
   links:
