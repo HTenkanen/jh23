@@ -21,7 +21,7 @@ feature_row:
     url: "info"
     btn_label: "Lue lisää"
     btn_class: "btn--primary"
-  - image_path: /assets/images/jh11.jpeg
+  - image_path: /assets/images/suomenlinna.jpg
     title: "Saapuminen"
     excerpt: "Täältä löydät käytännön ohjeita kuinka saapua juhlaamme."
     url: "saapuminen"
