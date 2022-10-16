@@ -57,11 +57,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : ""
-  avatar : ""
-  bio    : ""
-
 footer:
   links:
     - label: "Instagram"
