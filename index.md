@@ -10,7 +10,7 @@ intro:
   - excerpt: 'Jihuu!! Lämpimästi tervetuloa hääjuhlaamme Suomenlinnaan.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    title: "Ilmoittautuminen"
+    title: "RSVP"
     excerpt: "Ilmoittauduthan hääjuhlaamme 15.4.2023 mennessä."
     url: "ilmoittaudu"
     btn_label: "Ilmoittaudu täältä"
