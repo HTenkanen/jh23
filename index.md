@@ -15,13 +15,13 @@ feature_row:
     url: "ilmoittaudu"
     btn_label: "Ilmoittaudu täältä"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/jh13.jpg
     title: "Hääinfo"
     excerpt: "Täältä löydät lisätietoa hääjuhlamme ohjelmasta ja aikataulusta."
     url: "info"
     btn_label: "Lue lisää"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/jh11.jpg
     title: "Saapuminen"
     excerpt: "Täältä löydät käytännön ohjeita kuinka saapua juhlaamme."
     url: "saapuminen"
@@ -34,7 +34,7 @@ feature_row2:
     url: "majoitus"
     btn_label: "Katso majoitusvinkkejä"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/jh10.jpg
     title: "Kuvia"
     excerpt: "Tänne tulemme lisäämään kuvia häistämme."
     url: "kuvia"
