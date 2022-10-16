@@ -29,22 +29,16 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    title: "Ilmoittautuminen"
-    excerpt: "Ilmoittauduthan hääjuhlaamme 15.4.2023 mennessä."
-    url: "ilmoittaudu"
-    btn_label: "Ilmoittaudu täältä"
+    title: "Yöpyminen"
+    excerpt: "Täältä löydät vinkkejä majoittumiseen Helsingissä."
+    url: "majoitus"
+    btn_label: "Katso majoitusvinkkejä"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    title: "Hääinfo"
-    excerpt: "Täältä löydät lisätietoa hääjuhlamme ohjelmasta ja aikataulusta."
-    url: "info"
-    btn_label: "Lue lisää"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Saapuminen"
-    excerpt: "Täältä löydät käytännön ohjeita kuinka saapua juhlaamme."
-    url: "saapuminen"
-    btn_label: "Katso saapumisohjeet"
+    title: "Kuvia"
+    excerpt: "Tänne tulemme lisäämään kuvia häistämme."
+    url: "kuvia"
+    btn_label: "Katso kuvia täältä"
     btn_class: "btn--primary"
 ---
 
@@ -52,5 +46,5 @@ feature_row2:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row2" type="center" %}
 
