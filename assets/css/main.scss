@@ -14,4 +14,12 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-3268
 Anything you place after this point will therefore "cascade and override" the previous CSS styles.
 */
 
-$global-font-family: $helvetica, Arial !default;
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp8ltA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+$global-font-family: 'Dancing Script', Arial !default;
