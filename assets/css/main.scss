@@ -13,6 +13,6 @@ GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";`
 See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 Anything you place after this point will therefore "cascade and override" the previous CSS styles.
 */
-@import url(http://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
 
 $global-font-family: 'Dancing Script', cursive;
