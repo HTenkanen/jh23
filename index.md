@@ -1,11 +1,11 @@
 ---
-title: "J & H"
+title: ""
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.05"
+  overlay_filter: "0.01"
   overlay_image: /assets/images/background_invite.png
-excerpt: "27.5.2023"
+excerpt: ""
 intro: 
   - excerpt: 'Jihuu!! Lämpimästi tervetuloa hääjuhlaamme Suomenlinnaan.'
 feature_row:
