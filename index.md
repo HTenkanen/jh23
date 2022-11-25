@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/kuu.jpg
+  overlay_image: /assets/images/watercolor_island.jpg
 excerpt: "27.5.2023 - Suomenlinna, Helsinki"
 intro: 
   - excerpt: 'Jihuu!! Lämpimästi tervetuloa hääjuhlaamme Suomenlinnaan.'
