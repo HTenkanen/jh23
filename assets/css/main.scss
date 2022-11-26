@@ -24,7 +24,13 @@ Anything you place after this point will therefore "cascade and override" the pr
 
 $global-font-family: 'Dancing Script', Arial !default;
 
-.page__title {
-  color: #FF0000;
-  text-shadow: 3px 3px 4px rgba(#000, 0.8);
+@media (min-width: 37.5em)
+.page__hero--overlay .page__title {
+    font-size: 2.441em;
+    color: #FF0000;
+}
+
+.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn {
+    color: #FF0000;
+    
 }
