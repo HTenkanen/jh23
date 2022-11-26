@@ -23,3 +23,11 @@ Anything you place after this point will therefore "cascade and override" the pr
 }
 
 $global-font-family: 'Dancing Script', Arial !default;
+
+.page__title,
+.page__meta,
+.page__lead,
+.btn {
+  color: #FF0000;
+  text-shadow: 3px 3px 4px rgba(#000, 0.8);
+}
