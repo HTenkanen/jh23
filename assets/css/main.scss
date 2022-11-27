@@ -43,3 +43,8 @@ Anything you place after this point will therefore "cascade and override" the pr
     font-family: 'Dancing Script';
     font-size: 1.5em;
 }
+
+/* Remove titles below info cards */ 
+.page__content .archive__item-title {
+    font-size: 0;
+}
