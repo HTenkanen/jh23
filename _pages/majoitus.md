@@ -32,6 +32,6 @@ Helsingin keskustasta löytyy runsaasti hotelleja 500 metrin etäisyydellä kaup
    - [Hotel Fabian](https://www.hotelfabian.com/hotelli)
 {: #tekstit}
 
-Näiden lisäksi voit luonnollisesti etsiä sopivaa majoitusta käyttäen esim. [Booking.com](http://booking.com/), [Trivago](https://www.trivago.fi/) hakupalveluita tai käyttäen [Airbnb:tä](https://www.airbnb.fi/helsinki-finland/stays).
+Näiden lisäksi voit luonnollisesti etsiä sopivaa majoitusta käyttäen esim. [Booking.com](http://booking.com/) tai [Trivago](https://www.trivago.fi/) hakupalveluita, tai käyttäen [Airbnb:tä](https://www.airbnb.fi/helsinki-finland/stays).
 {: #tekstit}
 
