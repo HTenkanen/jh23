@@ -13,8 +13,8 @@ Vihkiminen tapahtuu Suomenlinnan kirkossa klo 15 alkaen. Vihkimisen jälkeen sii
 - 15:00 - Vihkiminen
 - 15:40 - Siirtyminen juhlatilaan
 - 16:00 - Alkumalja
-- 17:00 - Ruokaa, juomaa ja ohjelmaa
-- 00:30 - Juhlat loppuvat - Siirtyminen kohti lauttaa (viimeinen lautta mantereelle n. klo 02:00)
+- 17:00 - Ruokaa, juomaa, ohjelmaa ja musiikkia
+- 00:30 - Juhlat päättyvät - Siirtyminen kohti lauttaa (viimeinen lautta mantereelle n. klo 02:00)
 {: #tekstit}
 
 ### Huomioitavaa
