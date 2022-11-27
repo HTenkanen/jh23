@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.01"
-  overlay_image: /assets/images/background_invite2.png
+  overlay_image: /assets/images/background_invite3.png
 excerpt: ""
 intro: 
   - excerpt: 'Jihuu!! Lämpimästi tervetuloa hääjuhlaamme Suomenlinnaan.'
