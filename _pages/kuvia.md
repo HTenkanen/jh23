@@ -9,3 +9,4 @@ Juhlamme ikuistaa valokuvaaja. Kuvat tulevat myöhemmin katseltaviksi vieraille 
 {: #tekstit}
 
 ![J&H](../assets/images/jh10.jpeg)
+{: #kuva}
