@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Katso saapumisohjeet täältä"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: assets/images/majoitusvinkit_kortti.png
+  - image_path: assets/images/majoittumisvinkit_kortti.png
     title: "Yöpyminen"
     excerpt: ""
     url: "majoitus"
