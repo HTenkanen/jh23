@@ -31,6 +31,11 @@ Anything you place after this point will therefore "cascade and override" the pr
     opacity: 0%;
 }
 
+/* Add more room for the background image*/ 
+.page__hero--overlay {
+    padding: 5em 0;
+}
+
 /* Welcome text on large screen */
 .feature__item--center {
     text-align: center;
