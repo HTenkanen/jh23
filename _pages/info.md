@@ -3,6 +3,6 @@ permalink: /info/
 title: "Hääinfo"
 ---
 
-# Hääinfo
+## Hääinfo
 
 Lisää infoa
