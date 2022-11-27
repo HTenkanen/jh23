@@ -8,7 +8,7 @@ title: "Saapuminen"
 Suomenlinnaan kulkee lautta Helsingin kauppatorilta säännöllisin väliajoin (n. 4 kertaa tunnissa) ja kyytiin pääsee HSL:n matkalipulla. Voit ostaa matkalipun laiturilla olevasta automaatista tai käyttäen HSL-sovellusta (kts. [linkki alempaa](https://jihuu.love/saapuminen/#hy%C3%B6dyllisi%C3%A4-linkkej%C3%A4)). Lauttamatka kestää noin 15 minuuttia. 
 {: #tekstit}
 
-Lautan saapumispaikalta on lyhyt kävelymatka (n. 300 metriä) Suomenlinnan kirkolle. Vihkimisen jälkeen jatkamme yhdessä kävellen Susisaaren Tenalji von Ferssen juhlatilaan, jonne on noin 650 metrin matka. 
+Lautan saapumispaikalta on lyhyt kävelymatka (n. 300 metriä) Suomenlinnan kirkolle. Vihkimisen jälkeen jatkamme yhdessä kävellen Susisaaren Tenalji von Fersen juhlatilaan, jonne on noin 650 metrin matka. 
 {: #tekstit}
 
 ### Kartat
