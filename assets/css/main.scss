@@ -30,3 +30,10 @@ Anything you place after this point will therefore "cascade and override" the pr
     color: #FF0000;
     opacity: 0%;
 }
+
+/* Welcome text on large screen */
+.feature__item--center {
+    text-align: center;
+    font-family: 'Dancing Script';
+    font-size: 1.5em;
+}
