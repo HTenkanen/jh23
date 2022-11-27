@@ -11,7 +11,7 @@ Vihkiminen tapahtuu Suomenlinnan kirkossa klo 15 alkaen, lauantaina 27 toukokuut
 ### Alustava aikataulu
 
 - 15:00 - Vihkiminen Suomenlinnan kirkossa
-- 15:40 - Siirtyminen juhlatilaan (Tenalji von Ferssen)
+- 15:40 - Siirtyminen juhlatilaan (Tenalji von Fersen)
 - 16:00 - Alkumalja
 - 16:30 - Ruokaa, juomaa, ohjelmaa ja musiikkia
 - 00:30 - Juhlat päättyvät - Siirtyminen kohti lauttaa (viimeinen lautta mantereelle n. klo 02:00)
