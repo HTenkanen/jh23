@@ -37,13 +37,6 @@ Anything you place after this point will therefore "cascade and override" the pr
     padding: 5em 0;
 }
 
-/* Welcome text on large screen */
-.feature__item--center {
-    text-align: center;
-    font-family: 'Dancing Script';
-    font-size: 1.5em;
-}
-
 /* Remove titles below info cards */ 
 .page__content .archive__item-title {
     font-size: 0;
@@ -66,4 +59,11 @@ h1, h2 {
 .page__content p, .page__content li, .page__content dl {
     font-size: 1em;
     font-family: 'EB Garamond';
+}
+
+/* Welcome text */
+.archive__item-body {
+    text-align: center;
+    font-family: 'Dancing Script';
+    font-size: 1.5em;
 }
