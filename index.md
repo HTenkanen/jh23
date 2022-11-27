@@ -9,23 +9,22 @@ excerpt: ""
 intro: 
   - excerpt: 'Jihuu!! Lämpimästi tervetuloa hääjuhlaamme Suomenlinnaan.'
 feature_row:
-  - image_path: assets/images/Hove_kukkapuu.jpg
+  - image_path: assets/images/ilmoittautumis_kortti.png
     title: "RSVP"
-    excerpt: "Ilmoittauduthan hääjuhlaamme 15.4.2023 mennessä."
     url: "ilmoittaudu"
     btn_label: "Ilmoittaudu täältä"
     btn_class: "btn--primary"
     overlay_color: "#000"
     overlay_filter: "0.4"
-  - image_path: /assets/images/kimmo.jpeg
+  - image_path: /assets/images/hääinfo_kortti.png
     title: "Hääinfo"
-    excerpt: "Täältä löydät lisätietoa hääjuhlamme ohjelmasta ja aikataulusta."
+    excerpt: ""
     url: "info"
     btn_label: "Lue lisää"
     btn_class: "btn--primary"
-  - image_path: /assets/images/suomenlinna.jpg
+  - image_path: /assets/images/saapumisohje_kortti.png
     title: "Saapuminen"
-    excerpt: "Täältä löydät käytännön ohjeita kuinka saapua juhlaamme."
+    excerpt: ""
     url: "saapuminen"
     btn_label: "Katso saapumisohjeet"
     btn_class: "btn--primary"
