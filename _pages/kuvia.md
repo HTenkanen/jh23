@@ -5,4 +5,5 @@ title: "Kuvia"
 
 ## Kuvagalleria 
 
-Kuvia lisätään tänne. 
+Juhlamme ikuistaa valokuvaaja. Kuvat tulevat myöhemmin katseltaviksi vieraille tämän sivun kautta.
+{: #tekstit}
