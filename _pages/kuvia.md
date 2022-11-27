@@ -3,6 +3,6 @@ permalink: /kuvia/
 title: "Kuvia"
 ---
 
-# Kuvagalleria 
+## Kuvagalleria 
 
 Kuvia lisätään tänne. 
