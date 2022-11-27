@@ -13,13 +13,13 @@ Vihkiminen tapahtuu Suomenlinnan kirkossa klo 15 alkaen. Vihkimisen jälkeen sii
 - 15:00 - Vihkiminen
 - 15:40 - Siirtyminen juhlatilaan
 - 16:00 - Alkumalja
-- 17:00 - Ruokaa, juomaa, ohjelmaa ja musiikkia
+- 16:30 - Ruokaa, juomaa, ohjelmaa ja musiikkia
 - 00:30 - Juhlat päättyvät - Siirtyminen kohti lauttaa (viimeinen lautta mantereelle n. klo 02:00)
 {: #tekstit}
 
 ### Huomioitavaa
 
-- Suomenlinna on vuosisatoja vanha linnoitus. Kulkuväylät lautan, kirkon ja juhlapaikan välillä ovat sorateitä tai mukulakiveä. Huomoittehan tämän jalkineita valitessanne. Korkokenkien lisäksi kannattaa mukaan ottaa kävelykengät. 
+- Suomenlinna on vuosisatoja vanha linnoitus. Kulkuväylät lautan, kirkon ja juhlapaikan välillä ovat sorateitä tai mukulakiveä. Huomoittehan tämän jalkineita valitessanne. Korkokenkien lisäksi kannattaa mukaan ottaa kävelykengät. Kulkureitit Suomenlinnassa voit tarkistaa [näiden karttojen avulla](https://jihuu.love/saapuminen/#kartat).
 {: #tekstit}
 
 - Juhlatilaan kuljetaan portaiden kautta, mutta saliin on myös esteetyn pääsy hissillä.
