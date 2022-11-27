@@ -5,7 +5,7 @@ title: "Hääinfo"
 
 ## Hääinfo
 
-Vihkiminen tapahtuu Suomenlinnan kirkossa klo 15 alkaen. Vihkimisen jälkeen siirrymme kävellen Susisaarelle Tenalji von Fersenin juhlatilaan. Huomioittehan toiveemme juhlia vain aikuisten kesken.
+Vihkiminen tapahtuu Suomenlinnan kirkossa klo 15 alkaen, lauantaina 27 toukokuuta 2023. Vihkimisen jälkeen siirrymme kävellen Susisaarelle Tenalji von Fersenin juhlatilaan. Huomioittehan toiveemme juhlia vain aikuisten kesken.
 {: #tekstit}
 
 ### Alustava aikataulu
