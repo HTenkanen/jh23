@@ -9,20 +9,20 @@ excerpt: ""
 intro: 
   - excerpt: 'Jihuu!! Lämpimästi tervetuloa hääjuhlaamme Suomenlinnaan.'
 feature_row:
-  - image_path: assets/images/ilmoittautumis_kortti2.png
+  - image_path: assets/images/ilmoittautumis_kortti3.png
     title: "RSVP"
     url: "ilmoittaudu"
     btn_label: "Ilmoittaudu täältä"
     btn_class: "btn--primary"
     overlay_color: "#000"
     overlay_filter: "0.4"
-  - image_path: /assets/images/hääinfo_kortti2.png
+  - image_path: /assets/images/hääinfo_kortti3.png
     title: "Hääinfo"
     excerpt: ""
     url: "info"
     btn_label: "Lue lisää"
     btn_class: "btn--primary"
-  - image_path: /assets/images/saapumisohje_kortti2.png
+  - image_path: /assets/images/saapumisohje_kortti3.png
     title: "Saapuminen"
     excerpt: ""
     url: "saapuminen"
