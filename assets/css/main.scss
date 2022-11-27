@@ -14,9 +14,18 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-3268
 Anything you place after this point will therefore "cascade and override" the previous CSS styles.
 */
 
+/* Update the font family of navigation links */
+.greedy-nav a {
+    display: block;
+    margin: 0 1rem;
+    color: #042945;
+    text-decoration: none;
+    -webkit-transition: none;
+    transition: none;
+    font-family: 'Dancing Script';
+}
 
-$global-font-family: 'Dancing Script', Arial !default;
-
+/* Hide page title text because we include the text in the image */
 .page__hero--overlay .page__title {
     color: #FF0000;
     opacity: 0%;
