@@ -21,6 +21,6 @@ Vihkiminen tapahtuu Suomenlinnan kirkossa klo 15 alkaen. Vihkimisen jälkeen sii
 
 - Suomenlinna on vuosisatoja vanha linnoitus. Kulkuväylät lautan, kirkon ja juhlapaikan välillä ovat sorateitä tai mukulakiveä. Huomoittehan tämän jalkineita valitessanne. Korkokenkien lisäksi kannattaa mukaan ottaa kävelykengät. Kulkureitit Suomenlinnassa voit tarkistaa [näiden karttojen avulla](https://jihuu.love/saapuminen/#kartat).
 - Juhlatilaan kuljetaan portaiden kautta, mutta saliin on myös esteetön pääsy hissillä.
-- Toivomme lämmintä säätä hääpäivällemme, mutta huomioithan, että mereinen Suomenlinnan saari saattaa olla vielä vilpoinen toukokuun lopulla
+- Toivomme lämmintä säätä hääpäivällemme, mutta huomioittehan, että mereinen Suomenlinnan saari saattaa olla vielä vilpoinen toukokuun lopulla. Juhlat ovat kuitenkin lämpimissä sisätiloissa. 
 {: #tekstit}
 
