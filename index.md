@@ -27,13 +27,13 @@ feature_row:
     btn_label: "Katso saapumisohjeet täältä"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: assets/images/accommodation.jpg
+  - image_path: assets/images/majoitusvinkit_kortti.png
     title: "Yöpyminen"
     excerpt: ""
     url: "majoitus"
     btn_label: "Katso majoitusvinkkejä täältä"
     btn_class: "btn--primary"
-  - image_path: /assets/images/jh10.jpeg
+  - image_path: /assets/images/valokuvaus_kortti.png
     title: "Kuvia"
     excerpt: ""
     url: "kuvia"
