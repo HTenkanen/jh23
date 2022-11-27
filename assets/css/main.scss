@@ -14,6 +14,13 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-3268
 Anything you place after this point will therefore "cascade and override" the previous CSS styles.
 */
 
+/* Welcome text */
+.archive__item-body {
+    text-align: center;
+    font-family: 'Dancing Script';
+    font-size: 1.5em;
+}
+
 /* Update the font family of navigation links */
 .greedy-nav a {
     display: block;
@@ -40,13 +47,6 @@ Anything you place after this point will therefore "cascade and override" the pr
 /* Remove titles below info cards */ 
 .page__content .archive__item-title {
     font-size: 0;
-}
-
-/* Welcome text */
-.archive__item-body {
-    text-align: center;
-    font-family: 'Dancing Script';
-    font-size: 1.5em;
 }
 
 /* Update button styles */
