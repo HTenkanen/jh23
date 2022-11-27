@@ -42,6 +42,13 @@ Anything you place after this point will therefore "cascade and override" the pr
     font-size: 0;
 }
 
+/* Welcome text */
+.archive__item-body {
+    text-align: center;
+    font-family: 'Dancing Script';
+    font-size: 1.5em;
+}
+
 /* Update button styles */
 .btn {
     font-family: 'Dancing Script';
@@ -53,12 +60,4 @@ Anything you place after this point will therefore "cascade and override" the pr
 h1, h2 {
     font-size: 1.5em;
     font-family: 'Dancing Script';
-}
-
-
-/* Welcome text */
-.archive__item-body {
-    text-align: center;
-    font-family: 'Dancing Script';
-    font-size: 1.5em;
 }
